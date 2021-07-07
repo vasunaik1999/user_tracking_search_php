@@ -55,14 +55,14 @@
                 </div>
                 <div class="row mt-2">
                     <div class="col-md-4 mt-3 mt-md-0">
-                        <label for="name">Name</label>
+                        <label for="name" class="form-label">Name</label>
                         <input type="text" class="form-control" name="name" placeholder="Enter Name...">
                     </div>
                     <div class="col-md-4 mt-3 mt-md-0">
-                        <label for="date">Date</label>
+                        <label for="date" class="form-label">Date</label>
                         <input type="date" class="form-control" name="date">
                     </div>
-                    <div class="col-md-4 mt-3" style="margin: auto;">
+                    <div class="col-md-4 mt-4" style="margin: auto;">
                         <button type="submit" name="submit" class="btn btn-primary"><i class="fas fa-search pr-2"></i> Search</button>
                     </div>
                 </div>
